@@ -138,6 +138,7 @@ header .follow a:hover {
     font-size: 1.7rem;
     color: #666;
     padding: 5rem 0;
+    text-transform: none !important;
 }
 
 .btn {
